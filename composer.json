@@ -1,0 +1,25 @@
+{
+    "name": "qingsong/think-aliyundysms",
+    "description": "Aliyun dysms SDK for tp6",
+    "homepage": "https://github.com/wangqs33/think-aliyundysms",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "version": "2.0",
+    "authors": [
+        {
+            "name": "zhouwang33",
+            "email": "wangqs33@126.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/wangqs33/think-aliyundysms/issues"
+    },
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "qingsong\\aliyundysms\\": "src/"
+        }
+    }
+}
